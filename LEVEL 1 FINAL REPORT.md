@@ -1,7 +1,7 @@
 ---
 
-## Level 1: V Sanjay
-
+## Level 1
+**Name:** V Sanjay
 **Domain:** AI & ML  
 **Batch:** 4
 
