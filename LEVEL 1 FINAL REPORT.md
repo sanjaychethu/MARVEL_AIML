@@ -210,9 +210,7 @@ Decision Trees are a fundamental concept in supervised learning, serving as a ve
 **Applications of Decision Trees:**
 Decision Trees find applications across various domains, including:
 1. **Classification:** Predicting the class label of instances based on their feature values. For example, classifying emails as spam or non-spam.
-2. **Regression
-
-:** Predicting continuous target variables. For example, predicting house prices based on features like location, size, and amenities.
+2. **Regression:** Predicting continuous target variables. For example, predicting house prices based on features like location, size, and amenities.
 
 **Blog Link:** [An Introduction to Decision Trees](https://github.com/sanjaychethu/MARVEL_AIML_L1/blob/main/An_introduction_to_Decision_Tree%20.ipynb)
 
